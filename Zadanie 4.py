@@ -1,3 +1,9 @@
+"""
+Program zwracajacy liczbe unikalnych elementow wartosci bezwzglednych z podanej tablicy
+Tablica nie musi byc uporzadkowana
+
+"""
+
 def absDistinct(A):
     x = 0
     list = []
